@@ -13,7 +13,7 @@ This project is a classic Tetris game implemented for the **Arduino Uno Rev 4** 
   - Move right: `D` or right arrow.
   - Rotate: `W` or up arrow.
   - Soft drop: `S` or down arrow.
-  - Reset game: `R`.
+  - Reset game: `R` or `DEL` key.
 - **Scoring**: Points are awarded based on the number of lines cleared at once (40, 100, 300, 1200 points for 1, 2, 3, 4 lines respectively).
 - **Levels**: The game speeds up as the player progresses through levels. Levels increase every 1000 points.
 - **Game Over Screen**: Displays "GAME OVER", the final score, and prompts the player to press `R` to restart.
