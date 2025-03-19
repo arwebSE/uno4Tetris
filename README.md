@@ -3,6 +3,11 @@
 This project is a classic Tetris game implemented for the **Arduino Uno Rev 4** using its onboard **12x8 LED matrix**. The game is controlled via a keyboard, and the serial input is sent to the Arduino using a Python script (`serial_sender.py`), however it can be easily modified to be controlled by for example physical buttons. The game features all the standard Tetris mechanics, including piece rotation, movement, line clearing, scoring, and increasing difficulty as the game progresses.
 
 ---
+## Demo
+
+[Imgur](https://imgur.com/lPMKZ1p)
+
+---
 
 ## Features
 
