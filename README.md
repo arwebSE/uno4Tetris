@@ -5,7 +5,7 @@ This project is a classic Tetris game implemented for the **Arduino Uno Rev 4** 
 ---
 ## Demo
 
-[Imgur](https://imgur.com/lPMKZ1p)
+https://i.imgur.com/lPMKZ1p.mp4
 
 ---
 
