@@ -82,22 +82,6 @@ This project is a classic Tetris game implemented for the **Arduino Uno Rev 4** 
 
 ---
 
-## Customization
-
-- **Difficulty**: Adjust the `fallDelay` variable to change the initial speed of the falling pieces.
-- **Scoring**: Modify the scoring logic in the `checkLines()` function to customize point values.
-- **LED Matrix**: If using a different LED matrix, update the `matrix.renderBitmap()` function to match the new dimensions.
-
----
-
-## Troubleshooting
-
-- **No Display**: Ensure the Arduino is properly connected and the correct port is selected in the Arduino IDE.
-- **Input Not Working**: Verify that the `serial_sender.py` script is running and sending data to the correct serial port.
-- **Game Freezes**: Check for serial communication errors or memory issues on the Arduino.
-
----
-
 ## Credits
 
 This project was created by me as a fun implementation of Tetris for the Arduino Uno Rev 4. It uses the `ArduinoGraphics` and `Arduino_LED_Matrix` libraries for rendering.
